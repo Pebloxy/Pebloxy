@@ -43,17 +43,14 @@ You can call me *Pebloxy*
 
 ## 📊 GitHub Stats
 
-<div>
-<a href="https://github.com/Pebloxy">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Pebloxy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pebloxy&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pebloxy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebloxy&layout=compact&theme=tokyonight)
 ---
 
 ## 🐍 Contribution Snake (coming soon...)
 
-![Snake animation](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
