@@ -36,16 +36,9 @@ You can call me *Pebloxy*
 ## 🧬 Entering The Matrix...
 
 <div align="center">
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/matrix-code.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR6dHJtbjM3ZnJ4dWFmOTN0NXM2dTA3MW03b2lnMGgwMTNkeTNxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="400"/>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pebloxy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebloxy&layout=compact&theme=tokyonight)
 ---
 
 ## 🐍 Contribution Snake
@@ -54,12 +47,28 @@ You can call me *Pebloxy*
 
 ---
 
-## 📫 Contact
-
-Coming soon...
+## Contatos:
+<div>
+<a href="https://www.youtube.com/@Pebloxy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/pebloxy" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "pabvnoob2.0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-arthur-bessa-vieira-3217a53ab/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ---
 
-## ⚡ Final Transmission
+## 💻 System Boot Log
 
-> The storm there is approaching.
+```bash
+> Booting Pebloxy.exe...
+> Loading creativity modules...
+> Injecting curiosity.dll...
+> Establishing secure connection...
+> Access granted.
+
+> Final Transmission:
+> "The storm there is aproching"
+> Status: ONLINE 🟢
+````
+---
+
