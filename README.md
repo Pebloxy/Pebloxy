@@ -48,9 +48,9 @@ You can call me *Pebloxy*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pebloxy&layout=compact&theme=tokyonight)
 ---
 
-## 🐍 Contribution Snake (coming soon...)
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
