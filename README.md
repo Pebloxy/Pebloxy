@@ -50,7 +50,7 @@ You can call me *Pebloxy*
 
 ## 🐍 Contribution Snake (coming soon...)
 
-[![Snake animation](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pebloxy/Pebloxy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
